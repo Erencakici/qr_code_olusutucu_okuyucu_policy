@@ -1,0 +1,1 @@
+# qr_code_olusutucu_okuyucu_policy
